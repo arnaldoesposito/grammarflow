@@ -1220,7 +1220,7 @@
             ]
         }
     },
-    "past_simple": {
+    "past_simple_review": {
         "title": "Past Simple",
         "subtitle": "Finished actions in the past.",
         "quickLesson": "\n        <h3>\u26a1 Quick Lesson: Past Simple (Review)</h3>\n        <p><strong>1. Review:</strong> Actions finished at a specific time in the past.</p>\n        <p><strong>2. Common Markers:</strong> Yesterday, Last week, In 2010, 2 days ago.</p>\n        <p><strong>3. Irregular Verbs:</strong> Memorize them!<br>\n        Go -> Went<br>\n        Buy -> Bought<br>\n        Come -> Came</p>\n    ",

@@ -54,6 +54,16 @@
     const navEl = document.createElement('nav');
     navEl.className = 'main-nav';
 
+    // Create Toggle Button (Hamburger)
+    const toggleBtn = document.createElement('button');
+    toggleBtn.className = 'nav-toggle';
+    toggleBtn.innerHTML = '☰'; // Simple text icon, can be SVG
+    toggleBtn.ariaLabel = 'Toggle navigation';
+
+    // Create Links Container
+    const linksContainer = document.createElement('div');
+    linksContainer.className = 'nav-links';
+
     // Helper to get current filename for 'active' class
     const currentFile = path.split('/').pop() || 'index.html';
 
@@ -63,33 +73,42 @@
         btn.textContent = item.name;
 
         // Resolve Path
-        // item.link is "pages/verbs.html" or "index.html"
         let finalPath = rootPrefix + item.link;
-
-        // Optimization: if we are in pages/ and link is pages/..., remove pages/ prefix?
-        // e.g. defined 'pages/verbs.html', we are in 'pages/'.
-        // rootPrefix + item.link = '../pages/verbs.html'. This is valid.
 
         btn.onclick = () => window.location.href = finalPath;
 
         // Active State Logic
-        // Normalize checking. 
-        // If currentFile is 'verbs.html' and item.link is 'pages/verbs.html', matches end.
         if (item.link.endsWith(currentFile)) {
             btn.classList.add('active');
         }
-        // Special case for root
         else if (currentFile === 'index.html' && item.link === 'index.html') {
             btn.classList.add('active');
         }
-        else if (currentFile === '' && item.link === 'index.html') { // Landing on folder root
+        else if (currentFile === '' && item.link === 'index.html') {
             btn.classList.add('active');
         }
 
-        navEl.appendChild(btn);
+        linksContainer.appendChild(btn);
+    });
+
+    // Toggle Logic
+    toggleBtn.onclick = (e) => {
+        e.stopPropagation();
+        linksContainer.classList.toggle('active');
+        toggleBtn.innerHTML = linksContainer.classList.contains('active') ? '✕' : '☰';
+    };
+
+    // Close when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!navEl.contains(e.target)) {
+            linksContainer.classList.remove('active');
+            toggleBtn.innerHTML = '☰';
+        }
     });
 
     // 5. Inject
+    navEl.appendChild(toggleBtn);
+    navEl.appendChild(linksContainer);
     container.appendChild(navEl);
 
     // --- Shared Header Logic (Scroll) ---

@@ -218,7 +218,7 @@ async function loadLessons() {
             } else {
                 // Handle Error
                 const fname = fileList[index];
-                const cleanError = result.reason.message.replace(`${fname}: `, ''); // Remove prefix if redundant
+                const cleanError = result.reason ? result.reason.message.replace(`${fname}: `, '') : 'Unknown Error';
                 console.error(`Failed to load ${fname}:`, result.reason);
                 failedFiles.push(`<strong>${fname}</strong>: ${cleanError}`);
             }
@@ -945,7 +945,8 @@ if (dashboardToggle && dashboardDetails) {
     function closeDashboard() {
         isMenuOpen = false;
         dashboardDetails.classList.remove('open');
-        dashboardToggle.querySelector('.chevron-icon')?.classList.remove('rotate');
+        const icon = dashboardToggle.querySelector('.chevron-icon');
+        if (icon) icon.textContent = '+';
 
         // Immediate close logic
         dashboardDetails.style.display = 'none';
@@ -972,7 +973,8 @@ if (dashboardToggle && dashboardDetails) {
             levelGrid.style.gap = '1rem'; // Uniform gap
         }
 
-        dashboardToggle.querySelector('.chevron-icon')?.classList.add('rotate');
+        const icon = dashboardToggle.querySelector('.chevron-icon');
+        if (icon) icon.textContent = '-';
 
         setTimeout(() => {
             document.addEventListener('click', outsideClickListener);
