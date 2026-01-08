@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grammar Flow | Collocations</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css?v=1.47">
+    <link rel="stylesheet" href="../css/header.css?v=1.5">
+</head>
+
+<body class="theme-c1">
+    <div class="app-container">
+        <header id="site-header" class="site-header">
+            <div class="header-top">
+                <div class="container-flex">
+                    <div class="logo">Grammar Flow 🚀</div>
+                    <div id="nav-placeholder"></div>
+                </div>
+            </div>
+            <div class="header-bottom">
+                <div class="container-flex container-center">
+                    <h2 class="header-page-title">Sound Like a Native</h2>
+                </div>
+            </div>
+        </header>
+        <div class="header-spacer"></div>
+
+        <main class="content-area">
+            <section class="lesson-card dashboard-card">
+
+                <div class="verbs-controls">
+                    <div class="verb-tabs" id="col-tabs">
+                        <button class="v-tab active" data-type="all">All</button>
+                        <button class="v-tab" data-type="make_do">Make vs Do</button>
+                        <button class="v-tab" data-type="adj_prep">Adj + Prep</button>
+                        <button class="v-tab" data-type="verb_prep">Verb + Prep</button>
+                        <button class="v-tab" data-type="business">Business</button>
+                    </div>
+                    <div class="search-box">
+                        <input type="text" id="col-search"
+                            placeholder="Search collocations (e.g., 'Make a decision', 'Good at')...">
+                        <span class="search-icon">🔍</span>
+                    </div>
+                </div>
+
+                <p class="page-description">
+                    <strong>Speak naturally!</strong> Collocations are word combinations that native speakers use all
+                    the time. Learning these "blocks" prevents "Portinglês" errors and boosts your fluency
+                    significantly.
+                </p>
+
+                <!-- Grid -->
+                <div id="col-grid" class="ff-grid"> <!-- Reusing ff-grid layout -->
+                    <div class="loading-spinner">Loading collocations...</div>
+                </div>
+
+            </section>
+        </main>
+    </div>
+    <script src="../js/collocations.js"></script>
+    <script src="../js/scroll_top.js"></script>
+    <script src="../js/nav.js"></script>
+</body>
+
+</html>

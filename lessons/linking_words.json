@@ -1,0 +1,136 @@
+{
+    "contrast": [
+        {
+            "word": "However",
+            "translation": "No entanto / Porém",
+            "usage": "Used to introduce a statement that contrasts with or contradicts something that has been said previously.",
+            "example": "I wanted to go to the party; **however**, I was too tired."
+        },
+        {
+            "word": "Although",
+            "translation": "Embora / Apesar de",
+            "usage": "Used to introduce a subordinate clause that contains a statement which contrasts with the main clause.",
+            "example": "**Although** it was raining, we went for a walk."
+        },
+        {
+            "word": "Despite / In spite of",
+            "translation": "Apesar de",
+            "usage": "Used to show contrast. Followed by a noun or a gerund (-ing form), not a full sentence.",
+            "example": "**Despite** the traffic, we arrived on time."
+        },
+        {
+            "word": "On the other hand",
+            "translation": "Por outro lado",
+            "usage": "Used to introduce a contrasting point of view, fact, or situation.",
+            "example": "The job is stressful. **On the other hand**, the salary is excellent."
+        },
+        {
+            "word": "Nevertheless",
+            "translation": "Mesmo assim / Todavia",
+            "usage": "A more formal way to say 'however'. Indicates that something happened despite what was just mentioned.",
+            "example": "The team played poorly. **Nevertheless**, they won the match."
+        },
+        {
+            "word": "Whereas",
+            "translation": "Enquanto (que)",
+            "usage": "Used to compare or contrast two facts.",
+            "example": "He loves jazz, **whereas** his brother prefers rock."
+        }
+    ],
+    "addition": [
+        {
+            "word": "Furthermore",
+            "translation": "Além disso",
+            "usage": "Used to introduce a fresh point in an argument or explanation (Formal).",
+            "example": "The house is beautiful. **Furthermore**, it's in a great location."
+        },
+        {
+            "word": "Moreover",
+            "translation": "Além do mais",
+            "usage": "Used to add information, emphatic, often distinct from what came before (Formal).",
+            "example": "Texting while driving is dangerous. **Moreover**, it's illegal."
+        },
+        {
+            "word": "In addition (to)",
+            "translation": "Além de / Além disso",
+            "usage": "Used to add another item to a list or argument.",
+            "example": "**In addition to** the museum, we visited the park."
+        },
+        {
+            "word": "Besides",
+            "translation": "Além de / Além do que",
+            "usage": "Used to add a point, often with a sense of 'anyway' or making an additional strong point.",
+            "example": "I don't want to go. **Besides**, I have no money."
+        },
+        {
+            "word": "Also",
+            "translation": "Também",
+            "usage": "Used to add an agreeinig thought. Usually placed before the main verb.",
+            "example": "She speaks French. She **also** speaks Spanish."
+        }
+    ],
+    "cause_effect": [
+        {
+            "word": "Therefore",
+            "translation": "Portanto",
+            "usage": "Used to introduce the logical result of something mentioned previously (Formal).",
+            "example": "He didn't study. **Therefore**, he failed the test."
+        },
+        {
+            "word": "Consequently",
+            "translation": "Consequentemente",
+            "usage": "Used to state the result of an action.",
+            "example": "It rained heavily. **Consequently**, the match was cancelled."
+        },
+        {
+            "word": "Due to",
+            "translation": "Devido a",
+            "usage": "Used to give a reason for something. Followed by a noun.",
+            "example": "The flight was delayed **due to** bad weather."
+        },
+        {
+            "word": "Since",
+            "translation": "Já que / Visto que",
+            "usage": "Used to give a reason, similar to 'because'.",
+            "example": "**Since** you are here, help me with this."
+        },
+        {
+            "word": "As a result",
+            "translation": "Como resultado",
+            "usage": "Used to introduce the outcome of a situation.",
+            "example": "He missed the bus. **As a result**, he was late for work."
+        },
+        {
+            "word": "Thus",
+            "translation": "Assim / Deste modo",
+            "usage": "Used to show a result or consequence (Very formal).",
+            "example": "The company cut costs, **thus** increasing profits."
+        }
+    ],
+    "sequence": [
+        {
+            "word": "First of all / Firstly",
+            "translation": "Primeiramente / Antes de tudo",
+            "usage": "Used to start a list or sequence of events.",
+            "example": "**First of all**, I'd like to thank everyone for coming."
+        },
+        {
+            "word": "Meanwhile",
+            "translation": "Enquanto isso",
+            "usage": "Used to say that something is happening at the same time as something else.",
+            "example": "Cook the pasta. **Meanwhile**, prepare the sauce."
+        },
+        {
+            "word": "Eventually",
+            "translation": "Finalmente / Eventualmente (no fim)",
+            "usage": "Used to say that something happened after a long time or series of events. Note: distinct from 'possibly'.",
+            "example": "It took hours, but **eventually** we fixed the car."
+        },
+        {
+            "word": "Subsequently",
+            "translation": "Posteriormente",
+            "usage": "Used to describe something that happened after something else (Formal).",
+            "example": "He was arrested and **subsequently** convicted."
+        }
+    ]
+}

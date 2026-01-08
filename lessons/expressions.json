@@ -1,0 +1,478 @@
+[
+    {
+        "type": "phrasal_verb",
+        "expression": "Break down",
+        "meaning": "Stop working (machinery) or analyze in detail.",
+        "example": "My car broke down on the highway.",
+        "translation": "Quebrar / Analisar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Call off",
+        "meaning": "Cancel an event.",
+        "example": "They called off the meeting due to illness.",
+        "translation": "Cancelar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Calm down",
+        "meaning": "Relax after being angry/excited.",
+        "example": "You need to calm down before you speak.",
+        "translation": "Acalmar-se"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Catch up",
+        "meaning": "Reach the same point as another person.",
+        "example": "Go ahead, I'll catch up with you later.",
+        "translation": "Alcançar / Colocar o papo em dia"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Check in",
+        "meaning": "Register at a hotel/airport.",
+        "example": "We checked in at the hotel at 2 PM.",
+        "translation": "Fazer check-in"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Come up with",
+        "meaning": "Invent or create (an idea/solution).",
+        "example": "He came up with a great plan.",
+        "translation": "Criar / Inventar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Cut down on",
+        "meaning": "Consume less of something.",
+        "example": "I need to cut down on sugar.",
+        "translation": "Reduzir"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Drop off",
+        "meaning": "Take someone/something to a place.",
+        "example": "Can you drop me off at the station?",
+        "translation": "Deixar (alguém/algo)"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Figure out",
+        "meaning": "Understand or solve a problem.",
+        "example": "I need to figure out how this works.",
+        "translation": "Entender / Resolver"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Get along",
+        "meaning": "Have a good relationship.",
+        "example": "I get along well with my boss.",
+        "translation": "Dar-se bem"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Get over",
+        "meaning": "Recover from an illness or loss.",
+        "example": "It took him weeks to get over the flu.",
+        "translation": "Superar / Recuperar-se"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Give up",
+        "meaning": "Stop trying or quit.",
+        "example": "Don't give up on your dreams.",
+        "translation": "Desistir"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Hold on",
+        "meaning": "Wait a short time.",
+        "example": "Hold on a minute, I'm coming.",
+        "translation": "Esperar / Aguentar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Look after",
+        "meaning": "Take care of.",
+        "example": "Who will look after the dog?",
+        "translation": "Cuidar de"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Look forward to",
+        "meaning": "Be excited about something in the future.",
+        "example": "I look forward to seeing you.",
+        "translation": "Estar ansioso para"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Look up",
+        "meaning": "Search for information.",
+        "example": "I need to look up this word in the dictionary.",
+        "translation": "Pesquisar / Consultar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Make up",
+        "meaning": "Invent (a story) or reconcile.",
+        "example": "They made up after the argument.",
+        "translation": "Inventar / Fazer as pazes"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Pass out",
+        "meaning": "Faint / Lose consciousness.",
+        "example": "He passed out from the heat.",
+        "translation": "Desmaiar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Pick up",
+        "meaning": "Lift something or collect someone.",
+        "example": "I'll pick you up at 8.",
+        "translation": "Pegar / Buscar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Put off",
+        "meaning": "Postpone or delay.",
+        "example": "Can we put off the meeting until tomorrow?",
+        "translation": "Adiar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Put up with",
+        "meaning": "Tolerate.",
+        "example": "I can't put up with this noise anymore.",
+        "translation": "Tolerar / Aguentar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Run out of",
+        "meaning": "Have none left.",
+        "example": "We ran out of milk.",
+        "translation": "Ficar sem (acabar)"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Set up",
+        "meaning": "Arrange or organize.",
+        "example": "They set up a new company.",
+        "translation": "Configurar / Estabelecer"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Show up",
+        "meaning": "Arrive or appear.",
+        "example": "He didn't show up for the party.",
+        "translation": "Aparecer / Chegar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Take off",
+        "meaning": "Remove clothes or depart (plane).",
+        "example": "The plane took off on time.",
+        "translation": "Decolar / Tirar"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Turn down",
+        "meaning": "Refuse an offer or lower volume.",
+        "example": "She turned down the job offer.",
+        "translation": "Recusar / Abaixar volume"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Turn up",
+        "meaning": "Increase volume or appear unexpectedly.",
+        "example": "Can you turn up the music?",
+        "translation": "Aumentar volume / Aparecer"
+    },
+    {
+        "type": "phrasal_verb",
+        "expression": "Work out",
+        "meaning": "Exercise or solve a problem.",
+        "example": "I work out at the gym every day.",
+        "translation": "Exercitar-se / Funcionar/Resolver"
+    },
+    {
+        "type": "idiom",
+        "expression": "A blessing in disguise",
+        "meaning": "A good thing that seemed bad at first.",
+        "example": "Losing that job was a blessing in disguise.",
+        "translation": "Há males que vêm para o bem"
+    },
+    {
+        "type": "idiom",
+        "expression": "Beat around the bush",
+        "meaning": "Avoid saying what you mean, usually because it's uncomfortable.",
+        "example": "Stop beating around the bush and tell me the truth.",
+        "translation": "Enrolar / Rodear o assunto"
+    },
+    {
+        "type": "idiom",
+        "expression": "Better late than never",
+        "meaning": "Better to arrive late than not to come at all.",
+        "example": "I finally sent the email. Better late than never.",
+        "translation": "Antes tarde do que nunca"
+    },
+    {
+        "type": "idiom",
+        "expression": "Bite the bullet",
+        "meaning": "To get something over with because it is inevitable.",
+        "example": "I have to bite the bullet and go to the dentist.",
+        "translation": "Encarar o problema / Aguentar firme"
+    },
+    {
+        "type": "idiom",
+        "expression": "Break a leg",
+        "meaning": "Good luck.",
+        "example": "Break a leg on your presentation!",
+        "translation": "Boa sorte"
+    },
+    {
+        "type": "idiom",
+        "expression": "Call it a day",
+        "meaning": "Stop working on something.",
+        "example": "I'm tired. Let's call it a day.",
+        "translation": "Encerrar por hoje"
+    },
+    {
+        "type": "idiom",
+        "expression": "Cost an arm and a leg",
+        "meaning": "Be very expensive.",
+        "example": "This car costs an arm and a leg.",
+        "translation": "Custar os olhos da cara"
+    },
+    {
+        "type": "idiom",
+        "expression": "Cut corners",
+        "meaning": "Do something poorly in order to save time or money.",
+        "example": "Don't cut corners when building the house.",
+        "translation": "Fazer nas coxas / Economizar mal"
+    },
+    {
+        "type": "idiom",
+        "expression": "Get out of hand",
+        "meaning": "Get out of control.",
+        "example": "The party got out of hand.",
+        "translation": "Sair do controle"
+    },
+    {
+        "type": "idiom",
+        "expression": "Hit the sack",
+        "meaning": "Go to sleep.",
+        "example": "I'm exhausted, I'm going to hit the sack.",
+        "translation": "Ir para a cama"
+    },
+    {
+        "type": "idiom",
+        "expression": "Hit the nail on the head",
+        "meaning": "Describe something exactly correct.",
+        "example": "You hit the nail on the head with that answer.",
+        "translation": "Acertar em cheio"
+    },
+    {
+        "type": "idiom",
+        "expression": "Let the cat out of the bag",
+        "meaning": "Reveal a secret accidentally.",
+        "example": "Who let the cat out of the bag about the surprise party?",
+        "translation": "Dar com a língua nos dentes"
+    },
+    {
+        "type": "idiom",
+        "expression": "Miss the boat",
+        "meaning": "Miss an opportunity.",
+        "example": "I think I missed the boat on buying Bitcoin.",
+        "translation": "Perder a oportunidade / O bonde passou"
+    },
+    {
+        "type": "idiom",
+        "expression": "No pain, no gain",
+        "meaning": "You have to work for what you want.",
+        "example": "Exercise is hard, but no pain, no gain.",
+        "translation": "Sem esforço, sem ganho"
+    },
+    {
+        "type": "idiom",
+        "expression": "On the ball",
+        "meaning": "When someone understands the situation well.",
+        "example": "She's really on the ball today.",
+        "translation": "Atento / Eficiente"
+    },
+    {
+        "type": "idiom",
+        "expression": "Once in a blue moon",
+        "meaning": "Very rarely.",
+        "example": "I see him once in a blue moon.",
+        "translation": "Raramente"
+    },
+    {
+        "type": "idiom",
+        "expression": "Piece of cake",
+        "meaning": "Something very easy.",
+        "example": "The test was a piece of cake.",
+        "translation": "Moleza"
+    },
+    {
+        "type": "idiom",
+        "expression": "Pull someone's leg",
+        "meaning": "To joke with someone.",
+        "example": "I was just pulling your leg.",
+        "translation": "Zoar / Brincar com alguém"
+    },
+    {
+        "type": "idiom",
+        "expression": "So far, so good",
+        "meaning": "Things are going well so far.",
+        "example": "How is the new job? So far, so good.",
+        "translation": "Por enquanto, tudo bem"
+    },
+    {
+        "type": "idiom",
+        "expression": "Spill the beans",
+        "meaning": "Reveal secret information.",
+        "example": "Come on, spill the beans! Who is it?",
+        "translation": "Desembuchar / Contar o segredo"
+    },
+    {
+        "type": "idiom",
+        "expression": "The best of both worlds",
+        "meaning": "An ideal situation.",
+        "example": "She has the freedom of a student and the salary of a CEO. The best of both worlds.",
+        "translation": "O melhor dos dois mundos"
+    },
+    {
+        "type": "idiom",
+        "expression": "Time flies",
+        "meaning": "Time passes quickly.",
+        "example": "Time flies when you're having fun.",
+        "translation": "O tempo voa"
+    },
+    {
+        "type": "idiom",
+        "expression": "Under the weather",
+        "meaning": "Feeling sick or unwell.",
+        "example": "I'm feeling a bit under the weather today.",
+        "translation": "Não se sentir bem"
+    },
+    {
+        "type": "slang",
+        "expression": "Bummer",
+        "meaning": "A disappointing situation.",
+        "example": "It's a bummer that the concert was canceled.",
+        "translation": "Que chatice / Decepção"
+    },
+    {
+        "type": "slang",
+        "expression": "Chill",
+        "meaning": "Relax.",
+        "example": "Just chill, everything will be fine.",
+        "translation": "Relaxar / Ficar de boa"
+    },
+    {
+        "type": "slang",
+        "expression": "Crash",
+        "meaning": "Go to sleep quickly or stay at someone's house.",
+        "example": "Can I crash at your place tonight?",
+        "translation": "Dormir / Capotar"
+    },
+    {
+        "type": "slang",
+        "expression": "Ditch",
+        "meaning": "Leave someone or skip something.",
+        "example": "Let's ditch class and go to the beach.",
+        "translation": "Matar (aula) / Abandonar"
+    },
+    {
+        "type": "slang",
+        "expression": "Dude",
+        "meaning": "Friend / Guy (informal).",
+        "example": "Hey dude, what's up?",
+        "translation": "Cara / Velho"
+    },
+    {
+        "type": "slang",
+        "expression": "Dunno",
+        "meaning": "I don't know (informal contraction).",
+        "example": "Where is he? I dunno.",
+        "translation": "Sei lá"
+    },
+    {
+        "type": "slang",
+        "expression": "Ghost",
+        "meaning": "To suddenly stop communicating with someone.",
+        "example": "He ghosted me after the first date.",
+        "translation": "Sumir (dar um vácuo eterno)"
+    },
+    {
+        "type": "slang",
+        "expression": "Hang out",
+        "meaning": "Spend time socially.",
+        "example": "We like to hang out at the mall.",
+        "translation": "Passar tempo / Dar um rolê"
+    },
+    {
+        "type": "slang",
+        "expression": "Lit",
+        "meaning": "Exciting, excellent, or intoxicated.",
+        "example": "This party is lit!",
+        "translation": "Incandescente / Muito bom / Legal"
+    },
+    {
+        "type": "slang",
+        "expression": "My bad",
+        "meaning": "My mistake.",
+        "example": "Oops, I broke it. My bad.",
+        "translation": "Foi mal"
+    },
+    {
+        "type": "slang",
+        "expression": "No worries",
+        "meaning": "It's okay / You're welcome.",
+        "example": "Thanks for help. No worries.",
+        "translation": "Tranquilo / De nada"
+    },
+    {
+        "type": "slang",
+        "expression": "Rip-off",
+        "meaning": "Bad deal / Too expensive.",
+        "example": "100 dollars for a t-shirt? That's a rip-off.",
+        "translation": "Roubo (preço abusivo)"
+    },
+    {
+        "type": "slang",
+        "expression": "Salty",
+        "meaning": "Upset or bitter about something.",
+        "example": "He's salty because he lost the game.",
+        "translation": "Amargo / Chateado / Ressentido"
+    },
+    {
+        "type": "slang",
+        "expression": "Sick",
+        "meaning": "Awesome / Cool.",
+        "example": "That car is sick!",
+        "translation": "Irada / Muito legal"
+    },
+    {
+        "type": "slang",
+        "expression": "Slay",
+        "meaning": "To do something exceptionally well.",
+        "example": "You slayed that performance!",
+        "translation": "Arrasar"
+    },
+    {
+        "type": "slang",
+        "expression": "Tea",
+        "meaning": "Gossip / Truth.",
+        "example": "What's the tea? Tell me everything.",
+        "translation": "Fofoca / Babado"
+    },
+    {
+        "type": "slang",
+        "expression": "Wheels",
+        "meaning": "Car.",
+        "example": "Nice wheels!",
+        "translation": "Carro / Nave"
+    }
+]

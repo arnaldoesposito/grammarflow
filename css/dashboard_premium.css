@@ -1,0 +1,227 @@
+/* --- Global Dashboard (Premium) --- */
+.global-dashboard-container {
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05);
+    /* Premium Shadow */
+    margin-bottom: 2rem;
+    overflow: hidden;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border: 1px solid #f1f5f9;
+}
+
+.global-dashboard-container:hover {
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+/* Header / Toggle Button */
+.dashboard-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 1.5rem;
+    cursor: pointer;
+    background: white;
+    user-select: none;
+    gap: 1.5rem;
+}
+
+.summary-left {
+    display: flex;
+    align-items: center;
+}
+
+.summary-title {
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: var(--text-main);
+    letter-spacing: -0.01em;
+}
+
+.summary-center {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    max-width: 400px;
+    /* Limit width */
+}
+
+.global-progress-track {
+    flex: 1;
+    height: 12px;
+    background: #f1f5f9;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.global-progress-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--primary-color) 0%, var(--accent-color) 100%);
+    border-radius: 50px;
+    transition: width 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.global-percentage-text {
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: var(--primary-color);
+    min-width: 3.5rem;
+    text-align: right;
+}
+
+.summary-right {
+    display: flex;
+    align-items: center;
+}
+
+.chevron-icon {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    display: inline-block;
+}
+
+/* Opened State */
+.global-dashboard-container.open .chevron-icon {
+    transform: rotate(180deg);
+}
+
+/* Details Panel (Accordion) */
+.dashboard-details {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    background: #f8fafc;
+    border-top: 1px solid #f1f5f9;
+}
+
+.dashboard-details.open {
+    max-height: 600px;
+    /* Ensure expanding room */
+}
+
+/* Grid Layout */
+.level-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+    padding: 1.5rem;
+}
+
+/* Level Card */
+.level-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1rem;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: default;
+}
+
+.level-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-color: var(--theme-color);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.level-badge {
+    font-size: 0.9rem;
+    font-weight: 800;
+    color: var(--text-main);
+    background: #f1f5f9;
+    padding: 2px 8px;
+    border-radius: 6px;
+}
+
+.level-pct {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--theme-color);
+}
+
+.card-stats {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.mini-track {
+    height: 6px;
+    background: #f1f5f9;
+    border-radius: 10px;
+    margin-top: 0.25rem;
+    overflow: hidden;
+}
+
+.mini-fill {
+    height: 100%;
+    width: 0%;
+    background: var(--theme-color);
+    border-radius: 10px;
+    transition: width 0.6s ease;
+}
+
+/* Theme Colors */
+.card-a1 {
+    --theme-color: #34d399;
+}
+
+/* Green */
+.card-a2 {
+    --theme-color: #3b82f6;
+}
+
+/* Blue */
+.card-b1 {
+    --theme-color: #a855f7;
+}
+
+/* Purple/Violet */
+.card-b2 {
+    --theme-color: #f59e0b;
+}
+
+/* Amber/Orange */
+.card-c1 {
+    --theme-color: #ef4444;
+}
+
+/* Red (Future proof) */
+
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+    .dashboard-summary {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+
+    .summary-center {
+        width: 100%;
+        max-width: none;
+    }
+
+    .summary-right {
+        position: absolute;
+        top: 1.5rem;
+        right: 1.5rem;
+    }
+
+    .level-grid {
+        grid-template-columns: 1fr 1fr;
+        /* 2 columns on mobile */
+    }
+}

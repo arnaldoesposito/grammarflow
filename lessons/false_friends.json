@@ -1,0 +1,428 @@
+[
+    {
+        "word": "Actually",
+        "false_meaning": "Atualmente",
+        "true_meaning": "Na verdade / Realmente",
+        "example": "Actually, I don't like coffee."
+    },
+    {
+        "word": "Alias",
+        "false_meaning": "Aliás",
+        "true_meaning": "Nome falso / Codinome",
+        "example": "He used an alias to hide his identity."
+    },
+    {
+        "word": "Anticipate",
+        "false_meaning": "Antecipar (adiantar)",
+        "true_meaning": "Prever / Aguardar",
+        "example": "We anticipate a 10% increase in sales."
+    },
+    {
+        "word": "Application",
+        "false_meaning": "Aplicação (investimento)",
+        "true_meaning": "Inscrição / Candidatura / Aplicativo",
+        "example": "I sent my job application yesterday."
+    },
+    {
+        "word": "Appointment",
+        "false_meaning": "Apontamento",
+        "true_meaning": "Compromisso (marcado)",
+        "example": "I have a doctor's appointment at 3 PM."
+    },
+    {
+        "word": "Argument",
+        "false_meaning": "Argumento (apenas)",
+        "true_meaning": "Discussão / Briga",
+        "example": "They had a huge argument about money."
+    },
+    {
+        "word": "Assist",
+        "false_meaning": "Assistir (TV)",
+        "true_meaning": "Ajudar",
+        "example": "Can you assist me with this project?"
+    },
+    {
+        "word": "Attend",
+        "false_meaning": "Atender (telefone)",
+        "true_meaning": "Comparecer / Frequentar",
+        "example": "I will attend the meeting tomorrow."
+    },
+    {
+        "word": "Balcony",
+        "false_meaning": "Balcão",
+        "true_meaning": "Sacada / Varanda",
+        "example": "Enjoy the view from the balcony."
+    },
+    {
+        "word": "Baton",
+        "false_meaning": "Batom",
+        "true_meaning": "Cassetete / Bastão",
+        "example": "The police officer held a baton."
+    },
+    {
+        "word": "Beef",
+        "false_meaning": "Bife",
+        "true_meaning": "Carne de vaca / Treta (gíria)",
+        "example": "I don't eat beef."
+    },
+    {
+        "word": "Cafeteria",
+        "false_meaning": "Cafeteria (Coffee Shop)",
+        "true_meaning": "Refeitório / Cantina",
+        "example": "We eat lunch in the school cafeteria."
+    },
+    {
+        "word": "Carton",
+        "false_meaning": "Cartão",
+        "true_meaning": "Caixa (de papelão/leite)",
+        "example": "A carton of milk."
+    },
+    {
+        "word": "Casualty",
+        "false_meaning": "Casualidade",
+        "true_meaning": "Vítima (de acidente/guerra)",
+        "example": "There were no casualties in the accident."
+    },
+    {
+        "word": "Cigar",
+        "false_meaning": "Cigarro",
+        "true_meaning": "Charuto",
+        "example": "He smokes a cigar on special occasions."
+    },
+    {
+        "word": "Collar",
+        "false_meaning": "Colar (jóia)",
+        "true_meaning": "Gola / Coleira",
+        "example": "The dog has a red collar."
+    },
+    {
+        "word": "College",
+        "false_meaning": "Colégio (Ensino Médio)",
+        "true_meaning": "Faculdade",
+        "example": "He's going to college next year."
+    },
+    {
+        "word": "Comprehensive",
+        "false_meaning": "Compreensivo",
+        "true_meaning": "Abrangente / Completo",
+        "example": "This is a comprehensive guide."
+    },
+    {
+        "word": "Costume",
+        "false_meaning": "Costume",
+        "true_meaning": "Fantasia / Traje",
+        "example": "Nice Halloween costume!"
+    },
+    {
+        "word": "Data",
+        "false_meaning": "Data (calendário)",
+        "true_meaning": "Dados",
+        "example": "We need to analyze the data."
+    },
+    {
+        "word": "Deception",
+        "false_meaning": "Decepção",
+        "true_meaning": "Enganação / Fraude",
+        "example": "He was accused of deception."
+    },
+    {
+        "word": "Dent",
+        "false_meaning": "Dente",
+        "true_meaning": "Amassadão",
+        "example": "There's a dent in my car."
+    },
+    {
+        "word": "Educated",
+        "false_meaning": "Educado (gentil)",
+        "true_meaning": "Instruído / Culto",
+        "example": "He is a very educated man."
+    },
+    {
+        "word": "Estate",
+        "false_meaning": "Estado",
+        "true_meaning": "Propriedade / Bens",
+        "example": "Real estate agent."
+    },
+    {
+        "word": "Exquisite",
+        "false_meaning": "Esquisito",
+        "true_meaning": "Refinado / Belo / Excelente",
+        "example": "The food was exquisite."
+    },
+    {
+        "word": "Fabric",
+        "false_meaning": "Fábrica",
+        "true_meaning": "Tecido",
+        "example": "This shirt is made of soft fabric."
+    },
+    {
+        "word": "Gratuity",
+        "false_meaning": "Gratuidade",
+        "true_meaning": "Gorjeta (Gratification)",
+        "example": "Gratuity is included in the bill."
+    },
+    {
+        "word": "Grip",
+        "false_meaning": "Gripe",
+        "true_meaning": "Agarre / Pegada",
+        "example": "Get a grip!"
+    },
+    {
+        "word": "Hazard",
+        "false_meaning": "Azar",
+        "true_meaning": "Perigo / Risco",
+        "example": "Smoking is a health hazard."
+    },
+    {
+        "word": "Idiom",
+        "false_meaning": "Idioma",
+        "true_meaning": "Expressão Idiomática",
+        "example": "Piece of cake is an idiom."
+    },
+    {
+        "word": "Ingenuity",
+        "false_meaning": "Ingenuidade",
+        "true_meaning": "Criatividade / Engenhosidade",
+        "example": "I admire her ingenuity."
+    },
+    {
+        "word": "Intend",
+        "false_meaning": "Entender",
+        "true_meaning": "Pretender / Ter intenção",
+        "example": "I intend to travel."
+    },
+    {
+        "word": "Jar",
+        "false_meaning": "Jarra",
+        "true_meaning": "Pote (de vidro)",
+        "example": "A jar of jam."
+    },
+    {
+        "word": "Journal",
+        "false_meaning": "Jornal",
+        "true_meaning": "Diário / Revista Acadêmica",
+        "example": "I write in my journal."
+    },
+    {
+        "word": "Lamp",
+        "false_meaning": "Lâmpada",
+        "true_meaning": "Abajur / Luminária",
+        "example": "Turn on the lamp."
+    },
+    {
+        "word": "Large",
+        "false_meaning": "Largo",
+        "true_meaning": "Grande",
+        "example": "I'll take a large pizza."
+    },
+    {
+        "word": "Legend",
+        "false_meaning": "Legenda",
+        "true_meaning": "Lenda",
+        "example": "A football legend."
+    },
+    {
+        "word": "Library",
+        "false_meaning": "Livraria",
+        "true_meaning": "Biblioteca",
+        "example": "Book from the library."
+    },
+    {
+        "word": "Lunch",
+        "false_meaning": "Lanche",
+        "true_meaning": "Almoço",
+        "example": "Let's have lunch together."
+    },
+    {
+        "word": "Mayor",
+        "false_meaning": "Maior",
+        "true_meaning": "Prefeito",
+        "example": "The mayor spoke."
+    },
+    {
+        "word": "Novel",
+        "false_meaning": "Novela",
+        "true_meaning": "Romance (livro)",
+        "example": "Reading a good novel."
+    },
+    {
+        "word": "Office",
+        "false_meaning": "Oficina",
+        "true_meaning": "Escritório",
+        "example": "I work in an office."
+    },
+    {
+        "word": "Parents",
+        "false_meaning": "Parentes",
+        "true_meaning": "Pais",
+        "example": "My parents live here."
+    },
+    {
+        "word": "Pasta",
+        "false_meaning": "Pasta (arquivo/dente)",
+        "true_meaning": "Macarrão / Massa",
+        "example": "I love Italian pasta."
+    },
+    {
+        "word": "Policy",
+        "false_meaning": "Polícia",
+        "true_meaning": "Política (diretriz/regra)",
+        "example": "Company policy."
+    },
+    {
+        "word": "Prejudice",
+        "false_meaning": "Prejuízo",
+        "true_meaning": "Preconceito",
+        "example": "No place for prejudice."
+    },
+    {
+        "word": "Preservative",
+        "false_meaning": "Preservativo",
+        "true_meaning": "Conservante",
+        "example": "No preservatives."
+    },
+    {
+        "word": "Pretend",
+        "false_meaning": "Pretender",
+        "true_meaning": "Fingir",
+        "example": "She pretended to be asleep."
+    },
+    {
+        "word": "Pull",
+        "false_meaning": "Pular",
+        "true_meaning": "Puxar",
+        "example": "Pull the door to open."
+    },
+    {
+        "word": "Push",
+        "false_meaning": "Puxar",
+        "true_meaning": "Empurrar",
+        "example": "Push the button."
+    },
+    {
+        "word": "Realize",
+        "false_meaning": "Realizar",
+        "true_meaning": "Perceber / Dar-se conta",
+        "example": "I realized I forgot my keys."
+    },
+    {
+        "word": "Record",
+        "false_meaning": "Recordar",
+        "true_meaning": "Gravar / Registro",
+        "example": "I'm going to record this video."
+    },
+    {
+        "word": "Relatives",
+        "false_meaning": "Relativos",
+        "true_meaning": "Parentes",
+        "example": "Visiting relatives."
+    },
+    {
+        "word": "Resume",
+        "false_meaning": "Resumir",
+        "true_meaning": "Reiniciar / Retomar",
+        "example": "The game will resume after the break."
+    },
+    {
+        "word": "Résumé",
+        "false_meaning": "Resumo",
+        "true_meaning": "Currículo",
+        "example": "Send me your résumé."
+    },
+    {
+        "word": "Sensible",
+        "false_meaning": "Sensível",
+        "true_meaning": "Sensato",
+        "example": "That was a sensible decision."
+    },
+    {
+        "word": "Service",
+        "false_meaning": "Serviço (braçal)",
+        "true_meaning": "Atendimento (Customer Service)",
+        "example": "The service at this restaurant is great."
+    },
+    {
+        "word": "Shoot",
+        "false_meaning": "Chutar",
+        "true_meaning": "Atirar / Filmar",
+        "example": "Don't shoot!"
+    },
+    {
+        "word": "Support",
+        "false_meaning": "Suportar (aguentar)",
+        "true_meaning": "Apoiar",
+        "example": "I support my team."
+    },
+    {
+        "word": "Tax",
+        "false_meaning": "Táxi",
+        "true_meaning": "Imposto",
+        "example": "Sales tax is high here."
+    },
+    {
+        "word": "Vegetables",
+        "false_meaning": "Vegetais (geral)",
+        "true_meaning": "Legumes / Verduras",
+        "example": "Eat your vegetables."
+    },
+    {
+        "word": "Confident",
+        "false_meaning": "Confidente",
+        "true_meaning": "Confiante",
+        "example": "He feels confident."
+    },
+    {
+        "word": "Contest",
+        "false_meaning": "Contexto",
+        "true_meaning": "Concurso / Competição",
+        "example": "She won the contest."
+    },
+    {
+        "word": "Exit",
+        "false_meaning": "Êxito",
+        "true_meaning": "Saída",
+        "example": "Use the emergency exit."
+    },
+    {
+        "word": "Expert",
+        "false_meaning": "Esperto",
+        "true_meaning": "Especialista",
+        "example": "He is an expert."
+    },
+    {
+        "word": "Lecture",
+        "false_meaning": "Leitura",
+        "true_meaning": "Palestra / Aula",
+        "example": "Interesting lecture today."
+    },
+    {
+        "word": "Notice",
+        "false_meaning": "Notícia",
+        "true_meaning": "Aviso / Perceber",
+        "example": "Did you notice that?"
+    },
+    {
+        "word": "Sort",
+        "false_meaning": "Sorte",
+        "true_meaning": "Tipo / Ordenar",
+        "example": "What sort of music?"
+    },
+    {
+        "word": "Tenant",
+        "false_meaning": "Tenente",
+        "true_meaning": "Inquilino",
+        "example": "The tenant pays rent."
+    },
+    {
+        "word": "Terrific",
+        "false_meaning": "Terrível",
+        "true_meaning": "Excelente / Ótimo",
+        "example": "A terrific idea!"
+    },
+    {
+        "word": "Vine",
+        "false_meaning": "Vinho",
+        "true_meaning": "Videira / Trepadeira",
+        "example": "Grapes grow on vines."
+    }
+]

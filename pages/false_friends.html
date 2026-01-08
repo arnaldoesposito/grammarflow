@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grammar Flow | False Friends</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css?v=1.44">
+    <link rel="stylesheet" href="../css/header.css">
+</head>
+
+<body class="theme-b2"> <!-- Changed to B2 (Amber) as requested -->
+    <div class="app-container">
+        <header id="site-header" class="site-header">
+            <div class="header-top">
+                <div class="container-flex">
+                    <div class="logo">Grammar Flow 🚀</div>
+                    <div id="nav-placeholder"></div>
+                </div>
+            </div>
+            <div class="header-bottom">
+                <div class="container-flex container-center">
+                    <h2 class="header-page-title">Avoid Common Traps</h2>
+                </div>
+            </div>
+        </header>
+        <div class="header-spacer"></div>
+
+        <main class="content-area">
+            <section class="lesson-card dashboard-card">
+
+                <div class="verbs-controls">
+                    <div class="search-box">
+                        <input type="text" id="ff-search" placeholder="Search (e.g. 'Push', 'Pretend')...">
+                        <span class="search-icon">🔍</span>
+                    </div>
+                </div>
+
+                <p class="page-description">
+                    <strong>What are False Friends?</strong> Also known as False Cognates, these words look like
+                    Portuguese words
+                    but mean something completely different. Watch out for these common traps!
+                </p>
+
+                <!-- Grid -->
+                <div id="ff-grid" class="ff-grid">
+                    <div class="loading-spinner">Loading words...</div>
+                </div>
+
+            </section>
+        </main>
+    </div>
+    <script src="../js/false_friends.js"></script>
+    <script src="../js/scroll_top.js"></script>
+    <script src="../js/nav.js"></script>
+</body>
+
+</html>

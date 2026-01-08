@@ -1,0 +1,136 @@
+{
+    "make_do": [
+        {
+            "pair": "Make a mistake",
+            "translation": "Cometer um erro",
+            "note": "Common error: 'Do a mistake'",
+            "example": "Don't worry if you **make a mistake**. It's part of learning."
+        },
+        {
+            "pair": "Do homework",
+            "translation": "Fazer lição de casa",
+            "note": "Not 'Make homework'",
+            "example": "I have to **do my homework** before dinner."
+        },
+        {
+            "pair": "Make a decision",
+            "translation": "Tomar uma decisão",
+            "note": "In Portuguese: 'Tomar'",
+            "example": "It's time to **make a decision** about your career."
+        },
+        {
+            "pair": "Do a favor",
+            "translation": "Fazer um favor",
+            "note": "",
+            "example": "Can you **do me a favor** and open the window?"
+        },
+        {
+            "pair": "Make money",
+            "translation": "Ganhar dinheiro",
+            "note": "We 'make' money, we don't 'win' it (unless gambling)",
+            "example": "He wants to **make money** selling cars."
+        },
+        {
+            "pair": "Do your best",
+            "translation": "Fazer o seu melhor",
+            "note": "",
+            "example": "Just **do your best** and have fun."
+        }
+    ],
+    "adj_prep": [
+        {
+            "pair": "Good at",
+            "translation": "Bom em",
+            "note": "Not 'Good in'",
+            "example": "She is really **good at** math."
+        },
+        {
+            "pair": "Interested in",
+            "translation": "Interessado em",
+            "note": "",
+            "example": "Are you **interested in** joining our club?"
+        },
+        {
+            "pair": "Afraid of",
+            "translation": "Com medo de",
+            "note": "",
+            "example": "Don't be **afraid of** making mistakes."
+        },
+        {
+            "pair": "Proud of",
+            "translation": "Orgulhoso de",
+            "note": "",
+            "example": "I am very **proud of** my son."
+        },
+        {
+            "pair": "Angry with/at",
+            "translation": "Bravo com",
+            "note": "Angry with a person, at a situation",
+            "example": "Why are you **angry with** me?"
+        },
+        {
+            "pair": "Famous for",
+            "translation": "Famoso por",
+            "note": "",
+            "example": "France is **famous for** its wine."
+        }
+    ],
+    "verb_prep": [
+        {
+            "pair": "Depend on",
+            "translation": "Depender de",
+            "note": "Not 'Depend of'",
+            "example": "It **depends on** the weather."
+        },
+        {
+            "pair": "Listen to",
+            "translation": "Escutar (algo/alguém)",
+            "note": "Always 'Listen TO'",
+            "example": "She loves to **listen to** music."
+        },
+        {
+            "pair": "Wait for",
+            "translation": "Esperar por",
+            "note": "",
+            "example": "Who are you **waiting for**?"
+        },
+        {
+            "pair": "Think about/of",
+            "translation": "Pensar em/sobre",
+            "note": "",
+            "example": "I'm **thinking about** moving to Spain."
+        },
+        {
+            "pair": "Arrive at/in",
+            "translation": "Chegar em",
+            "note": "Arrive AT a place (airport), IN a city/country",
+            "example": "We **arrived at** the station just in time."
+        }
+    ],
+    "business": [
+        {
+            "pair": "Hold a meeting",
+            "translation": "Realizar uma reunião",
+            "note": "Formal way to say 'have a meeting'",
+            "example": "We need to **hold a meeting** to discuss the budget."
+        },
+        {
+            "pair": "Close a deal",
+            "translation": "Fechar um negócio",
+            "note": "",
+            "example": "The sales team managed to **close the deal**."
+        },
+        {
+            "pair": "Launch a product",
+            "translation": "Lançar um produto",
+            "note": "",
+            "example": "They plan to **launch the product** next month."
+        },
+        {
+            "pair": "Run a business",
+            "translation": "Administrar um negócio",
+            "note": "Run = Manage/Operate",
+            "example": "It's hard work to **run a small business**."
+        }
+    ]
+}

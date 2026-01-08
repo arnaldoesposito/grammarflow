@@ -1,0 +1,846 @@
+{
+    "regular": [
+        {
+            "base": "accept",
+            "past": "accepted",
+            "participle": "accepted",
+            "translation": "aceitar"
+        },
+        {
+            "base": "add",
+            "past": "added",
+            "participle": "added",
+            "translation": "adicionar"
+        },
+        {
+            "base": "agree",
+            "past": "agreed",
+            "participle": "agreed",
+            "translation": "concordar"
+        },
+        {
+            "base": "answer",
+            "past": "answered",
+            "participle": "answered",
+            "translation": "responder"
+        },
+        {
+            "base": "arrive",
+            "past": "arrived",
+            "participle": "arrived",
+            "translation": "chegar"
+        },
+        {
+            "base": "ask",
+            "past": "asked",
+            "participle": "asked",
+            "translation": "perguntar/pedir"
+        },
+        {
+            "base": "believe",
+            "past": "believed",
+            "participle": "believed",
+            "translation": "acreditar"
+        },
+        {
+            "base": "call",
+            "past": "called",
+            "participle": "called",
+            "translation": "chamar/ligar"
+        },
+        {
+            "base": "change",
+            "past": "changed",
+            "participle": "changed",
+            "translation": "mudar"
+        },
+        {
+            "base": "clean",
+            "past": "cleaned",
+            "participle": "cleaned",
+            "translation": "limpar"
+        },
+        {
+            "base": "close",
+            "past": "closed",
+            "participle": "closed",
+            "translation": "fechar"
+        },
+        {
+            "base": "cook",
+            "past": "cooked",
+            "participle": "cooked",
+            "translation": "cozinhar"
+        },
+        {
+            "base": "copy",
+            "past": "copied",
+            "participle": "copied",
+            "translation": "copiar"
+        },
+        {
+            "base": "cry",
+            "past": "cried",
+            "participle": "cried",
+            "translation": "chorar"
+        },
+        {
+            "base": "dance",
+            "past": "danced",
+            "participle": "danced",
+            "translation": "dançar"
+        },
+        {
+            "base": "decide",
+            "past": "decided",
+            "participle": "decided",
+            "translation": "decidir"
+        },
+        {
+            "base": "die",
+            "past": "died",
+            "participle": "died",
+            "translation": "morrer"
+        },
+        {
+            "base": "end",
+            "past": "ended",
+            "participle": "ended",
+            "translation": "terminar"
+        },
+        {
+            "base": "enjoy",
+            "past": "enjoyed",
+            "participle": "enjoyed",
+            "translation": "aproveitar/curtir"
+        },
+        {
+            "base": "explain",
+            "past": "explained",
+            "participle": "explained",
+            "translation": "explicar"
+        },
+        {
+            "base": "finish",
+            "past": "finished",
+            "participle": "finished",
+            "translation": "terminar"
+        },
+        {
+            "base": "follow",
+            "past": "followed",
+            "participle": "followed",
+            "translation": "seguir"
+        },
+        {
+            "base": "happen",
+            "past": "happened",
+            "participle": "happened",
+            "translation": "acontecer"
+        },
+        {
+            "base": "hate",
+            "past": "hated",
+            "participle": "hated",
+            "translation": "odiar"
+        },
+        {
+            "base": "help",
+            "past": "helped",
+            "participle": "helped",
+            "translation": "ajudar"
+        },
+        {
+            "base": "invite",
+            "past": "invited",
+            "participle": "invited",
+            "translation": "convidar"
+        },
+        {
+            "base": "jump",
+            "past": "jumped",
+            "participle": "jumped",
+            "translation": "pular"
+        },
+        {
+            "base": "kill",
+            "past": "killed",
+            "participle": "killed",
+            "translation": "matar"
+        },
+        {
+            "base": "kiss",
+            "past": "kissed",
+            "participle": "kissed",
+            "translation": "beijar"
+        },
+        {
+            "base": "laugh",
+            "past": "laughed",
+            "participle": "laughed",
+            "translation": "rir"
+        },
+        {
+            "base": "learn",
+            "past": "learned",
+            "participle": "learned",
+            "translation": "aprender"
+        },
+        {
+            "base": "like",
+            "past": "liked",
+            "participle": "liked",
+            "translation": "gostar"
+        },
+        {
+            "base": "listen",
+            "past": "listened",
+            "participle": "listened",
+            "translation": "ouvir"
+        },
+        {
+            "base": "live",
+            "past": "lived",
+            "participle": "lived",
+            "translation": "morar/viver"
+        },
+        {
+            "base": "look",
+            "past": "looked",
+            "participle": "looked",
+            "translation": "olhar"
+        },
+        {
+            "base": "love",
+            "past": "loved",
+            "participle": "loved",
+            "translation": "amar"
+        },
+        {
+            "base": "miss",
+            "past": "missed",
+            "participle": "missed",
+            "translation": "perder/sentir falta"
+        },
+        {
+            "base": "move",
+            "past": "moved",
+            "participle": "moved",
+            "translation": "mover/mudar-se"
+        },
+        {
+            "base": "need",
+            "past": "needed",
+            "participle": "needed",
+            "translation": "precisar"
+        },
+        {
+            "base": "open",
+            "past": "opened",
+            "participle": "opened",
+            "translation": "abrir"
+        },
+        {
+            "base": "paint",
+            "past": "painted",
+            "participle": "painted",
+            "translation": "pintar"
+        },
+        {
+            "base": "plan",
+            "past": "planned",
+            "participle": "planned",
+            "translation": "planejar"
+        },
+        {
+            "base": "play",
+            "past": "played",
+            "participle": "played",
+            "translation": "jogar/brincar/tocar"
+        },
+        {
+            "base": "prefer",
+            "past": "preferred",
+            "participle": "preferred",
+            "translation": "preferir"
+        },
+        {
+            "base": "rain",
+            "past": "rained",
+            "participle": "rained",
+            "translation": "chover"
+        },
+        {
+            "base": "remember",
+            "past": "remembered",
+            "participle": "remembered",
+            "translation": "lembrar"
+        },
+        {
+            "base": "return",
+            "past": "returned",
+            "participle": "returned",
+            "translation": "retornar/voltar"
+        },
+        {
+            "base": "save",
+            "past": "saved",
+            "participle": "saved",
+            "translation": "salvar/economizar"
+        },
+        {
+            "base": "start",
+            "past": "started",
+            "participle": "started",
+            "translation": "começar"
+        },
+        {
+            "base": "stay",
+            "past": "stayed",
+            "participle": "stayed",
+            "translation": "ficar"
+        },
+        {
+            "base": "stop",
+            "past": "stopped",
+            "participle": "stopped",
+            "translation": "parar"
+        },
+        {
+            "base": "study",
+            "past": "studied",
+            "participle": "studied",
+            "translation": "estudar"
+        },
+        {
+            "base": "talk",
+            "past": "talked",
+            "participle": "talked",
+            "translation": "falar/conversar"
+        },
+        {
+            "base": "travel",
+            "past": "traveled",
+            "participle": "traveled",
+            "translation": "viajar"
+        },
+        {
+            "base": "try",
+            "past": "tried",
+            "participle": "tried",
+            "translation": "tentar"
+        },
+        {
+            "base": "use",
+            "past": "used",
+            "participle": "used",
+            "translation": "usar"
+        },
+        {
+            "base": "visit",
+            "past": "visited",
+            "participle": "visited",
+            "translation": "visitar"
+        },
+        {
+            "base": "wait",
+            "past": "waited",
+            "participle": "waited",
+            "translation": "esperar"
+        },
+        {
+            "base": "walk",
+            "past": "walked",
+            "participle": "walked",
+            "translation": "andar/caminhar"
+        },
+        {
+            "base": "want",
+            "past": "wanted",
+            "participle": "wanted",
+            "translation": "querer"
+        },
+        {
+            "base": "wash",
+            "past": "washed",
+            "participle": "washed",
+            "translation": "lavar"
+        },
+        {
+            "base": "watch",
+            "past": "watched",
+            "participle": "watched",
+            "translation": "assistir"
+        },
+        {
+            "base": "work",
+            "past": "worked",
+            "participle": "worked",
+            "translation": "trabalhar"
+        },
+        {
+            "base": "worry",
+            "past": "worried",
+            "participle": "worried",
+            "translation": "preocupar-se"
+        }
+    ],
+    "irregular": [
+        {
+            "base": "be",
+            "past": "was/were",
+            "participle": "been",
+            "translation": "ser/estar"
+        },
+        {
+            "base": "become",
+            "past": "became",
+            "participle": "become",
+            "translation": "tornar-se"
+        },
+        {
+            "base": "begin",
+            "past": "began",
+            "participle": "begun",
+            "translation": "começar"
+        },
+        {
+            "base": "blow",
+            "past": "blew",
+            "participle": "blown",
+            "translation": "soprar"
+        },
+        {
+            "base": "break",
+            "past": "broke",
+            "participle": "broken",
+            "translation": "quebrar"
+        },
+        {
+            "base": "bring",
+            "past": "brought",
+            "participle": "brought",
+            "translation": "trazer"
+        },
+        {
+            "base": "build",
+            "past": "built",
+            "participle": "built",
+            "translation": "construir"
+        },
+        {
+            "base": "buy",
+            "past": "bought",
+            "participle": "bought",
+            "translation": "comprar"
+        },
+        {
+            "base": "catch",
+            "past": "caught",
+            "participle": "caught",
+            "translation": "pegar/apanhar"
+        },
+        {
+            "base": "choose",
+            "past": "chose",
+            "participle": "chosen",
+            "translation": "escolher"
+        },
+        {
+            "base": "come",
+            "past": "came",
+            "participle": "come",
+            "translation": "vir"
+        },
+        {
+            "base": "cost",
+            "past": "cost",
+            "participle": "cost",
+            "translation": "custar"
+        },
+        {
+            "base": "cut",
+            "past": "cut",
+            "participle": "cut",
+            "translation": "cortar"
+        },
+        {
+            "base": "do",
+            "past": "did",
+            "participle": "done",
+            "translation": "fazer"
+        },
+        {
+            "base": "draw",
+            "past": "drew",
+            "participle": "drawn",
+            "translation": "desenhar"
+        },
+        {
+            "base": "drink",
+            "past": "drank",
+            "participle": "drunk",
+            "translation": "beber"
+        },
+        {
+            "base": "drive",
+            "past": "drove",
+            "participle": "driven",
+            "translation": "dirigir"
+        },
+        {
+            "base": "eat",
+            "past": "ate",
+            "participle": "eaten",
+            "translation": "comer"
+        },
+        {
+            "base": "fall",
+            "past": "fell",
+            "participle": "fallen",
+            "translation": "cair"
+        },
+        {
+            "base": "feed",
+            "past": "fed",
+            "participle": "fed",
+            "translation": "alimentar"
+        },
+        {
+            "base": "feel",
+            "past": "felt",
+            "participle": "felt",
+            "translation": "sentir"
+        },
+        {
+            "base": "fight",
+            "past": "fought",
+            "participle": "fought",
+            "translation": "lutar/brigar"
+        },
+        {
+            "base": "find",
+            "past": "found",
+            "participle": "found",
+            "translation": "encontrar"
+        },
+        {
+            "base": "fly",
+            "past": "flew",
+            "participle": "flown",
+            "translation": "voar"
+        },
+        {
+            "base": "forget",
+            "past": "forgot",
+            "participle": "forgotten",
+            "translation": "esquecer"
+        },
+        {
+            "base": "freeze",
+            "past": "froze",
+            "participle": "frozen",
+            "translation": "congelar"
+        },
+        {
+            "base": "get",
+            "past": "got",
+            "participle": "gotten/got",
+            "translation": "pegar/conseguir"
+        },
+        {
+            "base": "give",
+            "past": "gave",
+            "participle": "given",
+            "translation": "dar"
+        },
+        {
+            "base": "go",
+            "past": "went",
+            "participle": "gone",
+            "translation": "ir"
+        },
+        {
+            "base": "grow",
+            "past": "grew",
+            "participle": "grown",
+            "translation": "crescer"
+        },
+        {
+            "base": "have",
+            "past": "had",
+            "participle": "had",
+            "translation": "ter"
+        },
+        {
+            "base": "hear",
+            "past": "heard",
+            "participle": "heard",
+            "translation": "ouvir"
+        },
+        {
+            "base": "hide",
+            "past": "hid",
+            "participle": "hidden",
+            "translation": "esconder"
+        },
+        {
+            "base": "hit",
+            "past": "hit",
+            "participle": "hit",
+            "translation": "bater"
+        },
+        {
+            "base": "hold",
+            "past": "held",
+            "participle": "held",
+            "translation": "segurar"
+        },
+        {
+            "base": "hurt",
+            "past": "hurt",
+            "participle": "hurt",
+            "translation": "machucar"
+        },
+        {
+            "base": "keep",
+            "past": "kept",
+            "participle": "kept",
+            "translation": "manter/guardar"
+        },
+        {
+            "base": "know",
+            "past": "knew",
+            "participle": "known",
+            "translation": "saber/conhecer"
+        },
+        {
+            "base": "leave",
+            "past": "left",
+            "participle": "left",
+            "translation": "sair/deixar"
+        },
+        {
+            "base": "lend",
+            "past": "lent",
+            "participle": "lent",
+            "translation": "emprestar"
+        },
+        {
+            "base": "let",
+            "past": "let",
+            "participle": "let",
+            "translation": "deixar/permitir"
+        },
+        {
+            "base": "lose",
+            "past": "lost",
+            "participle": "lost",
+            "translation": "perder"
+        },
+        {
+            "base": "make",
+            "past": "made",
+            "participle": "made",
+            "translation": "fazer/fabricar"
+        },
+        {
+            "base": "mean",
+            "past": "meant",
+            "participle": "meant",
+            "translation": "significar"
+        },
+        {
+            "base": "meet",
+            "past": "met",
+            "participle": "met",
+            "translation": "encontrar/conhecer"
+        },
+        {
+            "base": "pay",
+            "past": "paid",
+            "participle": "paid",
+            "translation": "pagar"
+        },
+        {
+            "base": "put",
+            "past": "put",
+            "participle": "put",
+            "translation": "colocar"
+        },
+        {
+            "base": "quit",
+            "past": "quit",
+            "participle": "quit",
+            "translation": "desistir/sair"
+        },
+        {
+            "base": "read",
+            "past": "read",
+            "participle": "read",
+            "translation": "ler"
+        },
+        {
+            "base": "ride",
+            "past": "rode",
+            "participle": "ridden",
+            "translation": "andar (moto/cavalo)"
+        },
+        {
+            "base": "ring",
+            "past": "rang",
+            "participle": "rung",
+            "translation": "tocar (campainha/tel)"
+        },
+        {
+            "base": "rise",
+            "past": "rose",
+            "participle": "risen",
+            "translation": "subir/nascer"
+        },
+        {
+            "base": "run",
+            "past": "ran",
+            "participle": "run",
+            "translation": "correr"
+        },
+        {
+            "base": "say",
+            "past": "said",
+            "participle": "said",
+            "translation": "dizer"
+        },
+        {
+            "base": "see",
+            "past": "saw",
+            "participle": "seen",
+            "translation": "ver"
+        },
+        {
+            "base": "sell",
+            "past": "sold",
+            "participle": "sold",
+            "translation": "vender"
+        },
+        {
+            "base": "send",
+            "past": "sent",
+            "participle": "sent",
+            "translation": "enviar"
+        },
+        {
+            "base": "set",
+            "past": "set",
+            "participle": "set",
+            "translation": "pôr/definir"
+        },
+        {
+            "base": "sing",
+            "past": "sang",
+            "participle": "sung",
+            "translation": "cantar"
+        },
+        {
+            "base": "sit",
+            "past": "sat",
+            "participle": "sat",
+            "translation": "sentar"
+        },
+        {
+            "base": "sleep",
+            "past": "slept",
+            "participle": "slept",
+            "translation": "dormir"
+        },
+        {
+            "base": "speak",
+            "past": "spoke",
+            "participle": "spoken",
+            "translation": "falar"
+        },
+        {
+            "base": "spend",
+            "past": "spent",
+            "participle": "spent",
+            "translation": "gastar/passar (tempo)"
+        },
+        {
+            "base": "stand",
+            "past": "stood",
+            "participle": "stood",
+            "translation": "ficar de pé"
+        },
+        {
+            "base": "steal",
+            "past": "stole",
+            "participle": "stolen",
+            "translation": "roubar"
+        },
+        {
+            "base": "swim",
+            "past": "swam",
+            "participle": "swum",
+            "translation": "nadar"
+        },
+        {
+            "base": "take",
+            "past": "took",
+            "participle": "taken",
+            "translation": "levar/tomar"
+        },
+        {
+            "base": "teach",
+            "past": "taught",
+            "participle": "taught",
+            "translation": "ensinar"
+        },
+        {
+            "base": "tell",
+            "past": "told",
+            "participle": "told",
+            "translation": "contar"
+        },
+        {
+            "base": "think",
+            "past": "thought",
+            "participle": "thought",
+            "translation": "pensar/achar"
+        },
+        {
+            "base": "throw",
+            "past": "threw",
+            "participle": "thrown",
+            "translation": "jogar/arremessar"
+        },
+        {
+            "base": "understand",
+            "past": "understood",
+            "participle": "understood",
+            "translation": "entender"
+        },
+        {
+            "base": "wake",
+            "past": "woke",
+            "participle": "woken",
+            "translation": "acordar"
+        },
+        {
+            "base": "wear",
+            "past": "wore",
+            "participle": "worn",
+            "translation": "vestir/usar"
+        },
+        {
+            "base": "win",
+            "past": "won",
+            "participle": "won",
+            "translation": "vencer/ganhar"
+        },
+        {
+            "base": "write",
+            "past": "wrote",
+            "participle": "written",
+            "translation": "escrever"
+        }
+    ]
+}
